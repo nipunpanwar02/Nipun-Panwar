@@ -1,21 +1,46 @@
-## 👋 Hello, I'm Nipun Panwar!
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NipunPanwar&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=NipunPanwar&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NipunPanwar&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunPanwar&layout=compact&theme=radical" />
-  <img src="https://komarev.com/ghpvc/?username=NipunPanwar&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+<h1 align="center">Hi 👋, I'm Nipun Panwar</h1>
 
 ---
 
-## 🐍 GitHub Contribution Snake
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coder GIF" width="380"/>
+
+### 🚀 About Me
+
+- 🌐Passionate about **Frontend Development and Problem Solving**
+- 🧩Always learning new tech & improving skills
+- 📬Reach me: *nipunpanwar02@gmail.com*
+
+---
+
+### 🛠️ Tech Stack
+
+- 💻**Languages**: HTML, CSS, JavaScript, C++
+- ⚙️**Tools**: VS Code, Git, GitHub, Chrome DevTools
+- 🧰**Frameworks**: Bootstrap, Tailwind CSS (learning React)
+
+---
+
+### 📊 GitHub Stats
+
+![Nipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nipunpanwar02&show_icons=true&theme=github_dark)
+
+---
+
+### 🧠 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nipunpanwar02&layout=compact&theme=merko)
+
+---
+
+### 💡 Currently Working On
+
+- 🔧 Building frontend projects with modern UI  
+- 📈 Improving problem-solving skills for placements  
+- 🚀 Preparing for full-stack development next
+
+---
+---
+
+## 🧩 GitHub Stats
 
 ![Snake animation](https://raw.githubusercontent.com/nipunpanwar02/snk/output/github-contribution-grid-snake.svg)
