@@ -24,5 +24,6 @@
 
 ## 🐍 GitHub Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Nipun-Panwar/snk/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/nipunpanwar02/snk/output/github-contribution-grid-snake.svg)
+
 
