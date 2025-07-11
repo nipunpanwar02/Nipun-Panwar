@@ -8,7 +8,7 @@
 
 - 🌐Passionate about **Frontend Development and Problem Solving**
 - 🧩Always learning new tech & improving skills
-- 📬Reach me: *nipunpanwar02@gmail.com*
+- 📬Reach me: *panwarnipun02@gmail.com*
 
 ---
 
