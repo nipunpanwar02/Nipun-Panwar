@@ -6,9 +6,9 @@
 
 ### 🚀 About Me
 
-- 🌐Passionate about **Frontend Development and Problem Solving**
-- 🧩Always learning new tech & improving skills
-- 📬Reach me: *panwarnipun02@gmail.com*
+- 🌐Passionate about **Frontend Development and Problem Solving**.
+- 🧩Always learning new tech & improving skills.
+- 📬Reach me: *panwarnipun02@gmail.com*.
 
 ---
 
