@@ -34,9 +34,9 @@
 
 ### 💡 Currently Working On
 
-- 🔧 Building frontend projects with modern UI  
-- 📈 Improving problem-solving skills for placements  
-- 🚀 Preparing for full-stack development next
+- 🔧 Building frontend projects with modern UI.
+- 📈 Improving problem-solving skills for placements.  
+- 🚀 Preparing for full-stack development next.
 
 ---
 ---
