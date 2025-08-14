@@ -36,7 +36,7 @@
 
 - 🔧 Building frontend projects with modern UI.
 - 📈 Improving problem-solving skills for placements.  
-- 🚀 Preparing for full-stack development next.
+- 🚀 Preparing for full-stack development next .
 
 ---
 ---
