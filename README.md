@@ -26,7 +26,7 @@
 
 ---
 
-### 🧠 Most Used Languages
+### 🧠 Most Used Languages 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nipunpanwar02&layout=compact&theme=merko)
 
