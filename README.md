@@ -4,7 +4,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coder GIF" width="380"/>
 
-### 🚀 About Me 
+### 🚀 About Me
 
 - 🌐Passionate about **Frontend Development and Problem Solving**.
 - 🧩Always learning new tech & improving skills.
