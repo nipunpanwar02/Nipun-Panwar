@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack 
 
 - 💻**Languages**: HTML, CSS, JavaScript, C++
 - ⚙️**Tools**: VS Code, Git, GitHub, Chrome DevTools
